@@ -2,7 +2,7 @@
 
 Ứng dụng quản lý công việc (Todo) xây dựng với kiến trúc 3 tầng hiện đại.
 
-**Môn học:** Hệ thống phân tán / Lập trình ứng dụng web  
+**Môn học:** Tư duy Tính toán 
 **Sinh viên:** Lê Văn Quốc — MSSV: 24120421  
 **Trường:** Đại học Khoa học Tự nhiên TP.HCM (HCMUS)
 
